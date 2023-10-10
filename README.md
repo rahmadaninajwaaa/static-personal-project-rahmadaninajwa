@@ -40,9 +40,9 @@ The HTML document is structured as follows:
 
 To run this web page locally:
 
-1. Download the HTML file (`index.html`) and the CSS file (`custom-fonts.css`) to the same directory.
+1. Download the HTML file and the CSS file to the same directory.
 
-2. Open `index.html` in a web browser to view the web page.
+2. Open in a web browser to view the web page.
 
 ## Author
 
