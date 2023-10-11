@@ -65,10 +65,6 @@ footer {
   color: black;
 }
 @media screen and (max-width: 760px) {
-  .headings {
-    flex-direction: column;
-    text-align: center;
-  }
   .headings li a {
     margin: 5px 0;
   }
