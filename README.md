@@ -36,14 +36,6 @@ The HTML document is structured as follows:
 
 - The footer contains a copyright notice.
 
-## Getting Started
-
-To run this web page locally:
-
-1. Download the HTML file and the CSS file to the same directory.
-
-2. Open in a web browser to view the web page.
-
 ## Author
 
 - **Rahmadani Najwa** - [GitHub](https://github.com/yourgithubusername)
